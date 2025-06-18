@@ -1,0 +1,42 @@
+# === RPG Maker MV/MZ Project ===
+
+# Ignore exported deployment files (Web build)
+www/
+output/
+dist/
+build/
+
+# Ignore RPG Maker Engine runtime files
+*.dll
+*.exe
+*.pak
+*.db
+*.db-journal
+*.rpgproject
+
+# Ignore player save files
+*.rpgsave
+save/
+
+# Ignore project backup files
+*.bak
+*.tmp
+
+# Ignore RPG Maker cache and test play logs
+*.log
+*.json.bak
+*.ldb
+*.lock
+
+# Ignore system/OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Optional: VSCode project files or editor configs
+.vscode/
+.idea/
+*.code-workspace
+
+# Optional: Node/NPM or other dev tool folders
+node_modules/

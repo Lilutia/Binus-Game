@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"SF_Actor1_7","characterIndex":6,"characterName":"SF_Actor1","classId":1,"equips":[2,0,0,3,0],"faceIndex":6,"faceName":"SF_Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dimas","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"SF_Actor3_8","characterIndex":7,"characterName":"SF_Actor3","classId":2,"equips":[7,0,0,3,0],"faceIndex":7,"faceName":"SF_Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Munaroh","nickname":"","note":"","profile":""}
+]
